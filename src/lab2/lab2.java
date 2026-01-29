@@ -1,7 +1,7 @@
 package lab2;
 
 /*import javax.swing.JOptionPane;
- * 
+
 public class lab2 {
 	public static void main(String[] args) {
 		String strheart = "  *   *\n"
