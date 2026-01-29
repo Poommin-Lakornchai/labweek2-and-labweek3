@@ -5,7 +5,7 @@ import java.io.FileNotFoundException;
 import java.util.Scanner;
 import javax.swing.JOptionPane;
 
-public class lab3 {
+/*public class lab3 {
 	public static void main(String[] args) throws FileNotFoundException {
 		File f = new File("D:\\number.txt");
 		Scanner s = new Scanner(f);
@@ -20,7 +20,7 @@ public class lab3 {
 		}
 		JOptionPane.showMessageDialog(null, "sum of all number in number.txt is "+sum);
 	}
-}
+}*/
 
 /*import java.io.File;
 import java.io.FileNotFoundException;
